@@ -33,7 +33,7 @@ I believe in the power of technology to innovate, automate, and improve lives, a
 Designed an AI-driven vehicle capable of navigating through environments autonomously using sensors and real-time data processing.
 
 ### 2. **Personal AI Device Assistant**  
-Developed a personal assistant leveraging AI to interact with users and control hardware through voice commands and machine learning algorithms.
+Developed a personal assistant leveraging AI to interact with users and control hardware through voice commands and natural language processing.
 
 ### 3. **OpenAI Assistants API Java SDK**  
 Currently building a Java SDK that simplifies interaction with OpenAI’s API, allowing developers to manage assistants and integrate conversational AI seamlessly.
